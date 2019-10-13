@@ -1,4 +1,4 @@
-package com.example.termuxam;
+package co.miescuela.termuxam;
 
 /**
  * \@hide-hidden constants

@@ -1,4 +1,4 @@
-package com.example.termuxam;
+package co.miescuela.termuxam;
 
 import android.content.ComponentName;
 import android.content.Intent;

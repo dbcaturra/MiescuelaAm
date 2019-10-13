@@ -15,7 +15,7 @@
 ** limitations under the License.
 */
 
-package com.example.termuxam;
+package co.miescuela.termuxam;
 
 import java.io.PrintStream;
 

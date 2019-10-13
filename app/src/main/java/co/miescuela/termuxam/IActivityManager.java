@@ -1,4 +1,4 @@
-package com.example.termuxam;
+package co.miescuela.termuxam;
 
 import android.annotation.SuppressLint;
 import android.app.PendingIntent;

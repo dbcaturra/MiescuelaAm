@@ -16,7 +16,7 @@
 */
 
 
-package com.example.termuxam;
+package co.miescuela.termuxam;
 
 import android.app.ActivityOptions;
 import android.content.ComponentName;
