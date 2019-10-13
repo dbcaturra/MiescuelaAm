@@ -1,0 +1,4 @@
+#!/data/data/co.miescuela/files/usr/bin/sh
+export CLASSPATH=$(pm path com.example.termuxam|cut -d: -f2)
+unset LD_LIBRARY_PATH LD_PRELOAD
+exec /system/bin/app_process / com.example.termuxam.Am "$@"
