@@ -29,7 +29,7 @@ class IActivityManager {
     private CrossVersionReflectedMethod mIntentSenderSendMethod;
 
     IActivityManager() throws Exception {
-        this("com.termux");
+        this("co.miescuela");
     }
 
     IActivityManager(String callingAppName) throws Exception {
